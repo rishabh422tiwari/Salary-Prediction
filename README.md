@@ -7,6 +7,7 @@ Application to predict salary of an employee based on basic information like exp
 it conducts every year. Stack Overflow annual developer survey include over 70,000 responses to curate the whole data. for csv file please refer to https://insights.stackoverflow.com/survey.
 
 This is how end application would look like :
+
 <img src="Figures/Screenshot 2022-07-17 at 3.13.27 PM.png" alt="Alt text" title="Optional title">
 
 ## Getting started
