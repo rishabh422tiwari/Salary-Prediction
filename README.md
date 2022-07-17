@@ -6,6 +6,11 @@
 Application to predict salary of an employee based on basic information like experience, country, education etc. This application uses Knowledge of data provided by StackOverlow which comes from a servey
 it conducts every year. Stack Overflow annual developer survey include over 70,000 responses to curate the whole data. for csv file please refer to https://insights.stackoverflow.com/survey.
 
+ - Try Out the app
+  ```sh
+  https://rishabh422tiwari-salary-prediction-app-7ytcny.streamlitapp.com/
+  ```
+
 This is how end application would look like :
 
 <img src="Figures/Screenshot 2022-07-17 at 3.13.27 PM.png" alt="Alt text" title="Optional title">
