@@ -30,7 +30,7 @@ Since desired output is continous we can use any variation of regression model. 
       <img src="Figures/outliers_before.png" alt="Alt text" title="Optional title">
       
       Our data after removing outliers
-      <img src="Figures/outliers_before.png" alt="Alt text" title="Optional title">
+      <img src="Figures/outliers_after.png" alt="Alt text" title="Optional title">
     - Encoding the categorical labels with scikit-learn lib.
  3. Trial of 3 different models (linear reg, random forest, decision tree)
  4. Evaluating with model performing well
